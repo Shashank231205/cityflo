@@ -1,0 +1,7 @@
+route_id,route_name,origin_stop,dest_stop,scheduled_runtime_min,stops_count
+9,Thane → Powai,Ghodbunder Rd,Hiranandani,55,7
+11,Borivali → BKC,Borivali Stn,BKC G-Block,70,9
+12,Mulund → Andheri E,Mulund Check Naka,Chakala,60,8
+14,Kandivali → Lower Parel,Kandivali E,Kamala Mills,75,10
+17,Vashi → Worli,Vashi Sector 17,Worli Naka,65,8
+21,Ghatkopar → BKC,Ghatkopar Metro,BKC,40,6
